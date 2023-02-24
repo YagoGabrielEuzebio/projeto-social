@@ -10,7 +10,6 @@
 html, body {
     height: 100vh;
     width: 100vw;
-    background-color: ;
 }
 
 ::-webkit-scrollbar {
@@ -36,7 +35,7 @@ section#telefone {
     transform: translate(-50%, -50%);
     
     max-height: 527px;
-    max-width: 311px;
+    max-width: 250px;
 
     background-color: blue;
     background: url('../imagens/frame-iphone.png') no-repeat ;
@@ -45,13 +44,13 @@ section#telefone {
 
 iframe#telahome {
     position: relative;
-    top: 66px;
+    top: 63px;
     left: 16px;
 
     
 
-    width: 228px;
-    height: 400px;
+    width: 220px;
+    height: 385px;
     border-radius: 4px;
 }
 
